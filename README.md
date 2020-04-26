@@ -4,35 +4,13 @@
 配置管理课堂实践
 对gitee各项操作的练习和使用，包括配置管理的签入签出、权限管理、分支合并、提交、统计等功能
 
-#### 软件架构
-软件架构说明
+#### 本项目成员
+172056114岳立军
+172056121张嘉华
+172056116胡潇
 
+#### 项目说明
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  本项目为课程实践项目，用于各项操作的测试和使用；
+2.  本项目为高校师生信息管理系统，由c++编写而成，小组成员共同管理；
+3.  使用gitee进行远程管理，各成员使用git进行本地操作和远程提交；
