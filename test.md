@@ -14,4 +14,3 @@
 3. git commit -m "添加备注以方便自己或是别人查看" ,还原后需要再次提交；
 4. git push origin master;提交到远程仓库
    1. ![1588651957534](F:\new_software_place\Git\clone_place\c_projrct_practice\img\提交演示.jpg)
-
